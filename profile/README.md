@@ -12,7 +12,7 @@
 >- Mass Reporting Tools
 >- Achievement Unlock Tools
 >- Party Tools
->- Net Lag
+>- ~~Net Lag~~ (This has been updated for https://ripnet.cc and https://github.com/playfairs/NetLagX)
 >- LFG Bots & Comment Bots
 
 ---
